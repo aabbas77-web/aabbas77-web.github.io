@@ -54,6 +54,9 @@ Explore more on [🔗 My GitHub](https://github.com/aabbas77-web)
 ---
 
 ## 🌍 Connect with Me
+- 📱 Mobile: +961 76482120  
+- 💬 WhatsApp: [+963 931637734](https://wa.me/963931637734)  
+- 📍 Address: Al Zarariyeh – Sidon – Lebanon  
 - 🌐 Website: [aabbas77-web.github.io](https://aabbas77-web.github.io)  
 - 🖥️ GitHub: [@aabbas77-web](https://github.com/aabbas77-web)  
 - 📺 YouTube: [Ali Abbas Channel](https://www.youtube.com/@aliabbas8784)  
