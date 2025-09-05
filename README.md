@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 I am a **PhD-qualified Software Engineer** with more than **20 years of experience** in software development, computer vision, GIS, and full-stack solutions.  
-Founder of **AliSoft**, where I have designed and developed innovative platforms ranging from **3D mapping and UAV navigation** to **AI-powered image recognition systems** and **geospatial utilities**.
+Founder of a virtual company **AliSoft**, where I have designed and developed innovative platforms ranging from **3D mapping and UAV navigation** to **AI-powered image recognition systems** and **geospatial utilities**.
 
 🔹 My expertise covers:
 - **Programming & AI:** C++, Python, Java, C#, TensorFlow, Keras, FastAPI, OpenCV  
