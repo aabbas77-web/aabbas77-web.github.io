@@ -47,9 +47,9 @@ Explore more on [🔗 My GitHub](https://github.com/aabbas77-web)
 ---
 
 ## 📝 Publications
-- **Registration of a 6-DOF-camera-images using 3D Terrain Model** (PhD Thesis, 2017)  
-- **Real-Time UAV Global Pose Estimation Using 3D Terrain Engine** (JTEC, 2017)  
-- **Target Localization from a UAV Using 3D Terrain Engine** (ICEENG Conference, 2016)  
+- [**Registration of a 6-DOF-camera-images using 3D Terrain Model** (PhD Thesis, 2017)](https://hiast.edu.sy/sites/default/files/MasterPHD/596dd15d123c7.pdf)
+- [**Real-Time UAV Global Pose Estimation Using 3D Terrain Engine** (JTEC, 2017)](https://jtec.utem.edu.my/jtec/article/download/1781/1095)
+- [**Target Localization from a UAV Using 3D Terrain Engine** (ICEENG Conference, 2016)](https://iceeng.journals.ekb.eg/article_30337_b37cd33a3f6bb759a19df99093a16e8d.pdf)
 
 ---
 
