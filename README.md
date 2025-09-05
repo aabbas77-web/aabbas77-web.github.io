@@ -1,138 +1,76 @@
-# Dr. Ali Yousef Abbas
+# Ali Abbas
 
-**Email:** aabbas7@gmail.com  
-**WhatsApp:** +963 931637734  
-**Mobile:** +961 76482120  
-**Location:** Al Zarariyeh – Sidon – Lebanon  
+🎓 **PhD in Computer Vision** | 💻 **Full Stack Developer** | 🛰️ **GIS & 3D Specialist** | 🤖 **AI & Computer Vision Engineer**
 
 ---
 
-## About Me
+## 👋 About Me
+I am a **PhD-qualified Software Engineer** with more than **20 years of experience** in software development, computer vision, GIS, and full-stack solutions.  
+Founder of **AliSoft**, where I have designed and developed innovative platforms ranging from **3D mapping and UAV navigation** to **AI-powered image recognition systems** and **geospatial utilities**.
 
-PhD holder in **Computer Vision** with over **20 years of professional experience** in **Image Processing, GIS, CNC, and Software Development**.  
-Founder of **AliSoft** with contributions to multiple open-source and commercial projects.
+🔹 My expertise covers:
+- **Programming & AI:** C++, Python, Java, C#, TensorFlow, Keras, FastAPI, OpenCV  
+- **GIS & 3D:** DEM visualization, geolocation, path planning, satellite imagery, NASA WorldWind  
+- **Mobile & Embedded:** Android (NDK), UAV SDKs, robotic vision, GNSS, sensor data processing  
+- **Web & Cloud:** Laravel, React, Flask, full-stack apps, geospatial converters  
+- **Industrial Systems:** CNC/CAD automation, PCB inspection, embedded simulations  
 
-**Websites & Profiles:**  
-- [AliSoft Official](https://hodhods.com)  
-- [GitHub](https://github.com/aabbas77-web)  
-- [YouTube](https://www.youtube.com/@aliabbas8784)  
-- [ORCID](https://orcid.org/0000-0002-5584-2083)  
-- [Google Scholar](https://scholar.google.com/citations?user=vdP4qo4AAAAJ)  
-- [LinkedIn](https://www.linkedin.com/in/ali-abbas-45799710b)  
-- [Web of Science](https://www.webofscience.com/wos/author/record/AFM-8617-2022)  
-- [ResearchGate](https://www.researchgate.net/profile/Ali-Abbas-90)  
+I bridge **academic research** and **real-world applications**, delivering robust, scalable, and user-driven solutions.
 
 ---
 
-## Professional Experience
+## 🚀 Featured Projects
+- [**AliSoft JMapViewer3D**](https://github.com/aabbas77-web/JMapViewer3D) – Java offline 3D map viewer (Google Earth alternative)  
+- [**AliSoft MapViewer4Android**](https://github.com/aabbas77-web/MapViewer4Android) – UAV flight + offline maps + secure comms  
+- [**AliSoft JISE**](https://github.com/aabbas77-web/JISE) – AI-powered image search engine (plant disease estimator)  
+- [**AliSoft CNC6**](https://github.com/aabbas77-web/CNC6) – CNC automation & simulation  
+- [**AliSoft Coordinate Converter**](https://github.com/aabbas77-web/coordinate_converter) – Web tool for geospatial coordinate conversion  
 
-### **Full Stack Developer (Self-employed / Remote & On-site)**  
-**2025 – Present**  
-- Brand Items Store (Made in Germany)  
-- **Skills:** PrestaShop, PHP, MySQL, PhpMyAdmin  
-
-**Aug 2021 – Present**  
-- Java Offline 3D MapViewer (Alternative to Google Earth for Java)  
-- [JMapViewer3D GitHub](https://github.com/aabbas77-web/JMapViewer3D)  
-- **Skills:** Java, GIS, GUI, Digital Image Processing, GDAL, DEM, 3D Modeling, NASA Worldwind  
-
-**2021 – Present | OnePoint Healthcare (Remote)**  
-- Healthcare service web applications  
-- **Skills:** Laravel, React.js, JavaScript, CSS, HTML  
-
-**2018 – Present**  
-- AliSoft MapViewer for UAV, Offline Maps, and Encrypted Communications  
-- [MapViewer4Android GitHub](https://github.com/aabbas77-web/MapViewer4Android)  
-- **Skills:** Android, Java, Osmdroid, DJI Drones, C++, GIS, DEM, GNSS, Kalman Filtering, Path Planning, Cameras, GPS, IMU, Digital Image Processing  
-
-**2025**  
-- AliSoft Coordinate Converter Tool (WGS84 ↔ UTM conversion)  
-- [Coordinate Converter GitHub](https://github.com/aabbas77-web/coordinate_converter)  
-- **Skills:** GIS, Python, Flask, JavaScript, Digital Elevation Model  
-
-**2001 – 2024 | Higher Institute for Applied Sciences and Technology**  
-- Project Manager: Digital Image Processing, GIS, Computer Vision, Software Development  
-- **Skills:** Project Management, C++, C#, Java, Full-Stack Development  
-
-**2001 – 2007 | CNC Programmer & Developer**  
-- CNC Machines, Quilt Design, GPIB, Embroidery, Halftone Tools  
-- [CNC6 GitHub](https://github.com/aabbas77-web/CNC6)  
-- [QuiltMaker3 GitHub](https://github.com/aabbas77-web/QuiltMaker3)  
-- [GPIB GitHub](https://github.com/aabbas77-web/GPIB)  
-- [Embroidery GitHub](https://github.com/aabbas77-web/Embroidery)  
-- [Halftone-Maker GitHub](https://github.com/aabbas77-web/Halftone-Maker)  
-- **Skills:** CNC Programming, CAD, Computational Geometry, C++, Digital Image Processing  
-
-**Other Notable Projects:**  
-- AliSoft Jiko Image Search Engine (Plant Disease Estimator)  
-- [JISE GitHub](https://github.com/aabbas77-web/JISE)  
-- **Skills:** Python, AI, FastAPI, TensorFlow, Keras  
+Explore more on [🔗 My GitHub](https://github.com/aabbas77-web)
 
 ---
 
-## Education
-
-**PhD, Computer Vision** – Higher Institute for Applied Sciences and Technology  
-*Aug 2014 – May 2017* | Grade: 95  
-- Thesis: Registration of 6-DOF camera images using 3D Terrain Model (UAV Application)  
-
-**MS, Image Processing** – Malek Ashtar University of Technology  
-*Jul 2007 – Feb 2010* | Grade: 86  
-- Thesis: Recognition of predefined textures within images  
-- [Texture Recognition GitHub](https://github.com/aabbas77-web/TextureRecognition)  
-
-**Engineer's degree, Mechatronics, Robotics, and Automation Engineering** – Higher Institute for Applied Sciences and Technology  
-*Sep 1995 – Feb 2000* | Grade: 66  
-- Project: Detecting PCB defects using Image Processing  
+## 💼 Experience
+- **Full Stack Developer (Self-employed)** – UAV, GIS, AI & Web solutions (2001–Present)  
+- **Project Manager @ HIAST** – Applied research in **Computer Vision & GIS** (2001–2024)  
+- **Part-time Developer @ OnePoint Healthcare (UAE)** – Web healthcare systems (2021–Present)  
+- **CNC & CAD Engineer** – Automation and industrial software (2001–2007)  
 
 ---
 
-## Skills
-
-**Programming & Frameworks:**  
-C++, C#, Java, Delphi, Python, JavaScript, PHP, Laravel, React.js, FastAPI, TensorFlow, Keras  
-
-**Web & Database:**  
-HTML, CSS, PrestaShop, MySQL, PhpMyAdmin  
-
-**Mobile & Embedded:**  
-Android, Android NDK, Osmdroid, DJI SDK, Drones, GPS, IMU  
-
-**GIS & Mapping:**  
-GIS, GDAL, DEM, 3D Modeling, NASA Worldwind, Geolocation, Path Planning  
-
-**CNC & CAD:**  
-CNC Programming, CAD, Vecad, Litecad, 2D CAD Drawing, Embroidery, Machine Embroidery  
-
-**Digital Image Processing & Computer Vision:**  
-Image Processing, PCA, Texture Recognition, Halftone Conversion, UAV Imaging, Camera Pose Estimation  
-
-**Other:**  
-Project Management, Full-Stack Development, Computational Geometry, Network Programming (TCP/IP), GPIB/IEEE-488  
+## 🎓 Education
+- **PhD, Computer Vision** – Higher Institute for Applied Sciences and Technology (2017)  
+  *Thesis: Registration of a 6-DOF Camera using 3D Terrain Model (UAV application)*  
+- **MSc, Image Processing** – Malek Ashtar University of Technology (2010)  
+- **Engineering, Mechatronics** – HIAST (2000)  
 
 ---
 
-## Contact
-
-- **Email:** aabbas7@gmail.com  
-- **WhatsApp:** +963 931637734  
-- **Mobile:** +961 76482120  
-- **Location:** Al Zarariyeh – Sidon – Lebanon  
+## 📝 Publications
+- **Registration of a 6-DOF-camera-images using 3D Terrain Model** (PhD Thesis, 2017)  
+- **Real-Time UAV Global Pose Estimation Using 3D Terrain Engine** (JTEC, 2017)  
+- **Target Localization from a UAV Using 3D Terrain Engine** (ICEENG Conference, 2016)  
 
 ---
 
-## AliSoft Projects & GitHub Repositories
-
-- [JMapViewer3D](https://github.com/aabbas77-web/JMapViewer3D) – Offline 3D Java MapViewer  
-- [MapViewer4Android](https://github.com/aabbas77-web/MapViewer4Android) – UAV & Offline Map Viewer  
-- [Coordinate Converter](https://github.com/aabbas77-web/coordinate_converter) – WGS84 ↔ UTM Conversion Tool  
-- [JISE](https://github.com/aabbas77-web/JISE) – Image Search Engine for Plant Disease Estimation  
-- [TextureRecognition](https://github.com/aabbas77-web/TextureRecognition) – Image Texture Recognition  
-- [CNC6](https://github.com/aabbas77-web/CNC6) – CNC Programming Tools  
-- [QuiltMaker3](https://github.com/aabbas77-web/QuiltMaker3) – Quilt Design Simulator  
-- [GPIB](https://github.com/aabbas77-web/GPIB) – General Purpose Interface Bus Tools  
-- [Embroidery](https://github.com/aabbas77-web/Embroidery) – Embroidery Design Tools  
-- [Halftone-Maker](https://github.com/aabbas77-web/Halftone-Maker) – Raster to Vector Converter  
-- [NetWatcher](https://github.com/aabbas77-web/NW) – Client/Server Network Monitoring  
+## 🌍 Connect with Me
+- 🌐 Website: [aabbas77-web.github.io](https://aabbas77-web.github.io)  
+- 🖥️ GitHub: [@aabbas77-web](https://github.com/aabbas77-web)  
+- 📺 YouTube: [Ali Abbas Channel](https://www.youtube.com/@aliabbas8784)  
+- 🎓 Research: [Google Scholar](https://scholar.google.com/citations?user=vdP4qo4AAAAJ) | [ORCID](https://orcid.org/0000-0002-5584-2083) | [ResearchGate](https://www.researchgate.net/profile/Ali-Abbas-90) | [Web of Science](https://www.webofscience.com/wos/author/record/AFM-8617-2022)  
+- 💼 LinkedIn: [Ali Abbas](https://www.linkedin.com/in/ali-abbas-45799710b)  
+- 🌍 Hodhods: [hodhods.com](https://hodhods.com)  
 
 ---
+
+## 🛠️ Skills
+**Languages & Frameworks:** Python, C++, Java, C#, TensorFlow, Keras, FastAPI, Laravel, React, Flask  
+**GIS & 3D:** DEM, NASA WorldWind, Path Planning, GNSS, UAV SDKs  
+**Mobile & Embedded:** Android NDK, DJI SDK, Raspberry Pi, Beaglebone  
+**Industrial Systems:** CNC, CAD, Image Processing, Automation  
+**Other:** Project Management, Agile, Multiplatform Integration  
+
+---
+
+✍️ *This repository is part of my GitHub Pages portfolio. Discover more at [aabbas77-web.github.io](https://aabbas77-web.github.io)*
+
