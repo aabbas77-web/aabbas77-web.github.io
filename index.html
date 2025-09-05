@@ -1,232 +1,231 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Dr. Ali Yousef Abbas — Portfolio</title>
-  <meta name="description" content="PhD in Computer Vision • 20+ years in Image Processing, GIS, CNC, and Software Development" />
-  <style>
-    :root{
-      --bg:#0b0c10; --card:#12141a; --muted:#9aa4b2; --text:#e6edf3; --brand:#5bbad5; --accent:#7ee787; --link:#7aa2f7;
-      --shadow: 0 10px 30px rgba(0,0,0,.35);
-      --radius: 16px;
-    }
-    *{box-sizing:border-box}
-    html,body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif}
-    a{color:var(--link);text-decoration:none}
-    a:hover{text-decoration:underline}
-    img{max-width:100%;height:auto}
-    .container{width:min(1100px, 92vw);margin-inline:auto}
-    header{position:sticky;top:0;backdrop-filter:saturate(180%) blur(8px);background:rgba(11,12,16,.7);border-bottom:1px solid #1f232b;z-index:10}
-    nav{display:flex;gap:1rem;align-items:center;justify-content:space-between;padding:12px 0}
-    nav .links a{padding:.5rem .8rem;border-radius:10px}
-    nav .links a:hover{background:#1a1e27}
-    .hero{display:grid;gap:1.2rem;grid-template-columns: 110px 1fr;align-items:center;padding:48px 0 24px}
-    .avatar{width:110px;height:110px;border-radius:50%;border:3px solid #1f242f;background:#1a1e27;display:grid;place-items:center;font-weight:700;color:#b3c1d1}
-    h1{margin:0;font-size:clamp(1.6rem, 1.1rem + 2vw, 2.4rem)}
-    .subtitle{color:var(--muted)}
-    .badges{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.25rem}
-    .badge{background:#17202a;border:1px solid #263142;color:#c7d2e0;padding:.25rem .6rem;border-radius:999px;font-size:.85rem}
-    section{padding:28px 0}
-    .section-title{font-size:1.2rem;margin:0 0 .8rem;color:#d7dee9}
-    .grid{display:grid;gap:16px}
-    @media(min-width:800px){
-      .grid-2{grid-template-columns:1fr 1fr}
-      .grid-3{grid-template-columns:repeat(3,1fr)}
-    }
-    .card{background:var(--card);border:1px solid #1e2430;border-radius:var(--radius);padding:16px;box-shadow:var(--shadow)}
-    .card h3{margin:.2rem 0 .4rem;font-size:1.05rem}
-    .meta{color:var(--muted);font-size:.9rem}
-    .row{display:flex;gap:10px;flex-wrap:wrap}
-    .pill{border:1px solid #2a3444;background:#151a22;padding:.2rem .55rem;border-radius:999px;font-size:.8rem;color:#c9d4e2}
-    .btn{display:inline-block;background:linear-gradient(90deg, var(--brand), var(--accent));color:#0a0a0a;font-weight:700;border:none;padding:.6rem .9rem;border-radius:12px}
-    .btn:hover{filter:brightness(1.05)}
-    footer{padding:32px 0;color:#93a0af}
-    .split{display:grid;gap:14px}
-    @media(min-width:900px){.split{grid-template-columns: 1fr .8fr}}
-    /* timeline */
-    .timeline{position:relative;padding-left:18px}
-    .timeline:before{content:"";position:absolute;left:6px;top:4px;bottom:4px;width:2px;background:#2a3342}
-    .t-item{position:relative;margin:0 0 18px}
-    .t-item:before{content:"";position:absolute;left:-12px;top:.35rem;width:10px;height:10px;border-radius:50%;background:var(--brand);box-shadow:0 0 0 3px #0b0f16}
-    .t-item h4{margin:.1rem 0}
-    .contact-card a{word-break:break-all}
-    /* print tweaks */
-    @media print{header, .btn{display:none} .card{box-shadow:none}}
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ali Abbas - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f9fb;
+            color: #333;
+        }
+        header {
+            background-color: #007acc;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0.2rem 0;
+        }
+        header p {
+            margin: 0.2rem 0;
+            font-size: 1.2rem;
+        }
+        section {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 1rem 2rem;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #007acc;
+            border-bottom: 2px solid #007acc;
+            padding-bottom: 0.3rem;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin: 0.5rem 0;
+        }
+        .experience, .education {
+            margin-bottom: 2rem;
+        }
+        .experience h3, .education h3 {
+            margin: 0.5rem 0;
+            color: #333;
+        }
+        .experience p, .education p {
+            margin: 0.2rem 0;
+            font-size: 0.95rem;
+            color: #555;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skill {
+            background-color: #e0f0ff;
+            color: #007acc;
+            padding: 0.3rem 0.6rem;
+            margin: 0.3rem;
+            border-radius: 5px;
+            font-size: 0.9rem;
+        }
+        a {
+            color: #007acc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <div class="container">
-      <nav>
-        <strong>Dr. Ali Y. Abbas</strong>
-        <div class="links">
-          <a href="#about">About</a>
-          <a href="#skills">Skills</a>
-          <a href="#projects">Projects</a>
-          <a href="#publications">Publications</a>
-          <a href="#experience">Experience</a>
-          <a href="#contact">Contact</a>
+    <header>
+        <h1>Ali Abbas</h1>
+        <p>Full Stack Developer | Project Manager | GIS & AI Specialist</p>
+    </header>
+
+    <section class="experience">
+        <h2>Experience</h2>
+
+        <div>
+            <h3>Full Stack Developer - Self-employed</h3>
+            <p>2025 - Present · Remote</p>
+            <p>Brand Items Store (Made in Germany)</p>
+            <p>Skills: PrestaShop, PHP, MySQL, PhpMyAdmin</p>
         </div>
-      </nav>
-    </div>
-  </header>
 
-  <main class="container">
-    <!-- HERO -->
-    <section class="hero">
-      <div class="avatar" aria-hidden="true">AA</div>
-      <div>
-        <h1>PhD in Computer Vision • Image Processing & GIS Specialist</h1>
-        <p class="subtitle">20+ years in Image Processing, GIS, CNC, and Software Development. Experienced with <strong>NASA WorldWind</strong> and 3D mapping systems.</p>
-        <div class="badges">
-          <span class="badge">Computer Vision</span>
-          <span class="badge">NASA WorldWind</span>
-          <span class="badge">GIS</span>
-          <span class="badge">MATLAB</span>
-          <span class="badge">Java / C++ / Python</span>
+        <div>
+            <h3>Full Stack Developer - Self-employed</h3>
+            <p>Aug 2021 - Present · Damascus, Syria · Hybrid</p>
+            <p>Java Offline 3D MapViewer (Alternative to Google Earth for Java)</p>
+            <p>Skills: Java, GIS, GUI, Digital Image Processing, GDAL, DEM, 3D Modeling, Nasa, Worldwind</p>
+            <p>GitHub: <a href="https://github.com/aabbas77-web/JMapViewer3D">JMapViewer3D</a></p>
         </div>
-        <p style="margin-top:10px">
-          <a class="btn" href="#contact">Hire / Collaborate</a>
-        </p>
-      </div>
-    </section>
 
-    <!-- ABOUT -->
-    <section id="about" class="split">
-      <div class="card">
-        <h2 class="section-title">About</h2>
-        <p>I am <strong>Dr. Ali Yousef Abbas</strong>, a PhD holder in Informatics Engineering (Computer Vision). I design and build high‑performance imaging and geospatial systems, from classical image processing pipelines to modern 3D GIS viewers. I enjoy turning complex research into production‑ready software.</p>
-        <p>Open to <em>remote roles</em> and <em>relocation</em>. I can contribute across the stack: algorithms, data, and user‑facing tools.</p>
-      </div>
-      <div class="card">
-        <h2 class="section-title">Highlights</h2>
-        <ul>
-          <li>NASA WorldWind integration and extensions for 3D visualization.</li>
-          <li>End‑to‑end image processing & computer vision pipelines.</li>
-          <li>GIS data handling, tiling, and interactive visual analytics.</li>
-          <li>Scientific software, CNC control, and automation.</li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- SKILLS -->
-    <section id="skills">
-      <h2 class="section-title">Skills</h2>
-      <div class="card">
-        <div class="row">
-          <span class="pill">Java</span>
-          <span class="pill">C++</span>
-          <span class="pill">Python</span>
-          <span class="pill">MATLAB</span>
-          <span class="pill">OpenCV</span>
-          <span class="pill">NASA WorldWind</span>
-          <span class="pill">WebGL</span>
-          <span class="pill">GIS / QGIS</span>
-          <span class="pill">CNC</span>
-          <span class="pill">Docker</span>
+        <div>
+            <h3>Full Stack Developer - OnePoint Healthcare</h3>
+            <p>2021 - Present · UAE · Remote</p>
+            <p>Healthcare Service Apps</p>
+            <p>Skills: Laravel, React.js, JavaScript, CSS, HTML</p>
         </div>
-      </div>
-    </section>
 
-    <!-- PROJECTS -->
-    <section id="projects">
-      <h2 class="section-title">Projects</h2>
-      <div class="grid grid-2">
-        <article class="card">
-          <h3>JMapViewer3D — WorldWind Integration</h3>
-          <p class="meta">Open‑source • Java • NASA WorldWind</p>
-          <p>An extensible 3D GIS viewer built on WorldWind, featuring tiling, camera controls, layers, and example datasets.</p>
-          <p class="row">
-            <a class="btn" href="https://github.com/aabbas77-web/JMapViewer3D" target="_blank" rel="noopener">GitHub</a>
-            <a href="https://github.com/aabbas77-web" target="_blank" rel="noopener">More repos →</a>
-          </p>
-        </article>
-        <article class="card">
-          <h3>PCB Defect Detection</h3>
-          <p class="meta">MATLAB • Image Processing</p>
-          <p>A golden‑template pipeline for detecting missing/extra tracks and solder defects; includes registration and robust morphology.</p>
-          <p><em>Add link or screenshots.</em></p>
-        </article>
-        <article class="card">
-          <h3>Satellite Imagery Analytics</h3>
-          <p class="meta">Python • OpenCV • GeoTIFF</p>
-          <p>Toolkit for preprocessing and analyzing remote‑sensing imagery (tiling, normalization, feature extraction, change detection).</p>
-          <p><em>Add link or screenshots.</em></p>
-        </article>
-        <article class="card">
-          <h3>CNC Control Suite</h3>
-          <p class="meta">C++ • Realtime</p>
-          <p>Modular CNC control components with trajectory planning and IO integration for manufacturing systems.</p>
-          <p><em>Add link or screenshots.</em></p>
-        </article>
-      </div>
-    </section>
-
-    <!-- PUBLICATIONS -->
-    <section id="publications">
-      <h2 class="section-title">Publications</h2>
-      <div class="card">
-        <ul>
-          <li><a href="https://scholar.google.com/citations?user=vdP4qo4AAAAJ" target="_blank" rel="noopener">Google Scholar</a></li>
-          <li><a href="https://orcid.org/0000-0002-5584-2083" target="_blank" rel="noopener">ORCID</a></li>
-          <li><a href="https://www.webofscience.com/wos/author/record/AFM-8617-2022" target="_blank" rel="noopener">Web of Science</a></li>
-          <li><a href="https://www.researchgate.net/profile/Ali-Abbas-90" target="_blank" rel="noopener">ResearchGate</a></li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- EXPERIENCE (timeline) -->
-    <section id="experience">
-      <h2 class="section-title">Experience</h2>
-      <div class="card timeline">
-        <div class="t-item">
-          <h4>Senior Software Engineer / Consultant</h4>
-          <div class="meta">2015 — Present</div>
-          <p>Building imaging & GIS solutions, integrating NASA WorldWind, and delivering production‑ready tools for geospatial analysis.</p>
+        <div>
+            <h3>Full Stack Developer - Self-employed</h3>
+            <p>2018 - Present · Damascus, Syria</p>
+            <p>AliSoft MapViewer for Android (UAV, Offline Maps, Encrypted Comms)</p>
+            <p>Skills: Android, Java, Osmdroid, DJI, Drones, C++, GIS, DEM, Satellite Imagery, GNSS, Kalman filtering, 2D CAD, Path Planning, Cameras, Digital Image Processing, GPS Navigation</p>
+            <p>GitHub: <a href="https://github.com/aabbas77-web/MapViewer4Android">MapViewer4Android</a></p>
         </div>
-        <div class="t-item">
-          <h4>Researcher / Lecturer</h4>
-          <div class="meta">2006 — 2015</div>
-          <p>Computer vision research, supervision, and teaching in image processing, pattern recognition, and scientific software.</p>
+
+        <div>
+            <h3>Full Stack Developer - Self-employed</h3>
+            <p>2025 · Damascus, Syria</p>
+            <p>AliSoft Coordinate Converter Tool</p>
+            <p>Skills: GIS, Flask, Python, JavaScript, DEM</p>
+            <p>GitHub: <a href="https://github.com/aabbas77-web/coordinate_converter">Coordinate Converter</a></p>
         </div>
-      </div>
+
+        <div>
+            <h3>Project Manager - Higher Institute for Applied Sciences and Technology</h3>
+            <p>Feb 2001 - Dec 2024 · Damascus, Syria</p>
+            <p>Skills: Project Management, Software Development, Full-Stack, C++, C#, Java</p>
+        </div>
     </section>
 
-    <!-- CONTACT -->
-    <section id="contact">
-      <h2 class="section-title">Contact</h2>
-      <div class="grid grid-2">
-        <div class="card contact-card">
-          <p><strong>Email:</strong> <a href="mailto:aabbas7@gmail.com">aabbas7@gmail.com</a></p>
-          <p><strong>WhatsApp:</strong> <a href="https://wa.me/963931637734" target="_blank" rel="noopener">+963 931 637 734</a></p>
-          <p><strong>Location:</strong> Al Zarariyeh – Sidon – Lebanon</p>
+    <section class="education">
+        <h2>Education</h2>
+
+        <div>
+            <h3>PhD, Computer Vision - Higher Institute for Applied Sciences and Technology</h3>
+            <p>Aug 2014 - May 2017 · Grade: 95</p>
+            <p>Registration of a 6-DOF-camera-images using 3D Terrain Model: UAV camera application</p>
         </div>
-        <div class="card contact-card">
-          <p><strong>GitHub:</strong> <a href="https://github.com/aabbas77-web" target="_blank" rel="noopener">github.com/aabbas77-web</a></p>
-          <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ali-abbas-45799710b" target="_blank" rel="noopener">linkedin.com/in/ali-abbas-45799710b</a></p>
-          <p><strong>Website:</strong> <a href="https://hodhods.com" target="_blank" rel="noopener">hodhods.com</a></p>
-          <p><strong>Youtube:</strong> <a href="https://www.youtube.com/@aliabbas8784" target="_blank" rel="noopener">@aliabbas8784</a></p>
+
+        <div>
+            <h3>MS, Image Processing - Malek Ashtar University of Technology</h3>
+            <p>Jul 2007 - Feb 2010 · Grade: 86</p>
+            <p>Recognition of a predefined texture within an image</p>
         </div>
-      </div>
+
+        <div>
+            <h3>Engineer's degree, Mechatronics & Robotics - Higher Institute for Applied Sciences and Technology</h3>
+            <p>Sep 1995 - Feb 2000 · Grade: 66</p>
+            <p>Detecting Printed Circuit Board (PCB) Defects Using Image Processing</p>
+        </div>
     </section>
 
-    <section>
-      <div class="card">
-        <h2 class="section-title">Download / Print</h2>
-        <p>Use your browser’s <em>Print</em> to export as PDF. The layout is optimized for printing (headers hidden).</p>
-      </div>
+    <section class="skills">
+        <h2>Skills</h2>
+        <div class="skills">
+            <span class="skill">Android NDK</span>
+            <span class="skill">Jini</span>
+            <span class="skill">Gradle</span>
+            <span class="skill">ICP/IP</span>
+            <span class="skill">Android</span>
+            <span class="skill">Osmdroid</span>
+            <span class="skill">DJI</span>
+            <span class="skill">Drones</span>
+            <span class="skill">Satellite Imagery</span>
+            <span class="skill">GNSS</span>
+            <span class="skill">Kalman Filtering</span>
+            <span class="skill">Path Planning</span>
+            <span class="skill">Cameras</span>
+            <span class="skill">Geolocation</span>
+            <span class="skill">IMU</span>
+            <span class="skill">GPS Navigation</span>
+            <span class="skill">Nasa</span>
+            <span class="skill">Worldwind</span>
+            <span class="skill">AI</span>
+            <span class="skill">FastAPI</span>
+            <span class="skill">TensorFlow</span>
+            <span class="skill">Keras</span>
+            <span class="skill">MATLAB</span>
+            <span class="skill">PCA</span>
+            <span class="skill">PrestaShop</span>
+            <span class="skill">PHP</span>
+            <span class="skill">MySQL</span>
+            <span class="skill">PhpMyAdmin</span>
+            <span class="skill">Laravel</span>
+            <span class="skill">React.js</span>
+            <span class="skill">CSS</span>
+            <span class="skill">HTML</span>
+            <span class="skill">GPS</span>
+            <span class="skill">DATA SIM</span>
+            <span class="skill">GPIB</span>
+            <span class="skill">IEEE-488</span>
+            <span class="skill">Plugins</span>
+            <span class="skill">Network Programming</span>
+            <span class="skill">TCP/IP</span>
+            <span class="skill">Flask</span>
+            <span class="skill">Python</span>
+            <span class="skill">JavaScript</span>
+            <span class="skill">Digital Elevation Model</span>
+            <span class="skill">EMF</span>
+            <span class="skill">Raster</span>
+            <span class="skill">Vector</span>
+            <span class="skill">C++ Builder</span>
+            <span class="skill">CNC Programming</span>
+            <span class="skill">CNC</span>
+            <span class="skill">Embroidery</span>
+            <span class="skill">Machine Embroidery</span>
+            <span class="skill">Computational Geometry</span>
+            <span class="skill">CAD</span>
+            <span class="skill">Vecad</span>
+            <span class="skill">Litecad</span>
+            <span class="skill">2D CAD Drawing</span>
+            <span class="skill">GIS</span>
+            <span class="skill">GUI</span>
+            <span class="skill">Digital Image Processing</span>
+            <span class="skill">GDAL</span>
+            <span class="skill">DEM</span>
+            <span class="skill">3D Modeling</span>
+            <span class="skill">Project Management</span>
+            <span class="skill">Software Development</span>
+            <span class="skill">Full-Stack Development</span>
+            <span class="skill">C++</span>
+            <span class="skill">C#</span>
+            <span class="skill">Java</span>
+        </div>
     </section>
-  </main>
-
-  <footer>
-    <div class="container">
-      © <span id="year"></span> Ali Y. Abbas — Built with plain HTML/CSS. 
-    </div>
-  </footer>
-
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
 </body>
 </html>
