@@ -54,6 +54,7 @@ Explore more on [🔗 My GitHub](https://github.com/aabbas77-web)
 ---
 
 ## 🌍 Connect with Me
+- ✉️ Email: [aabbas7@gmail.com](mailto:aabbas7@gmail.com)
 - 📱 Mobile: +961 76482120  
 - 💬 WhatsApp: [+963 931637734](https://wa.me/963931637734)  
 - 📍 Address: Al Zarariyeh – Sidon – Lebanon  
