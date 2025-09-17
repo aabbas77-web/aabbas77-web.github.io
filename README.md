@@ -60,35 +60,6 @@ I have led the **design and implementation** of solutions such as:
 
 ---
 
-## 💼 Experience (Highlights)
-
-- **Project Manager | Higher Institute for Applied Sciences and Technology**  
-  *2001 – 2024 | Damascus, Syria*  
-  Led research & projects in digital image processing, GIS, computer vision, desktop & Android development.  
-
-- **Full Stack Developer | Self-employed**  
-  *2018 – Present*  
-  - Developed **UAV flight & offline map viewer** (DJI SDK, Android, GIS).  
-  - Built **GIS platforms** integrating GeoServer, PostgreSQL, OpenLayers.  
-  - Created **Java 3D MapViewer** as an alternative to Google Earth.  
-
-- **Full Stack Developer | OnePoint Healthcare (UAE)**  
-  *2021 – Present | Remote*  
-  Delivered scalable healthcare services using Laravel, React.js, and web technologies.  
-
-- **Full Stack Developer | Self-employed**  
-  *2000 – Present*  
-  Multiple projects including:  
-  - **AI image recognition systems** (TensorFlow, Keras, FastAPI).  
-  - **Geospatial coordinate converter** (Flask, DEM integration).  
-  - **CNC & CAD automation systems**.  
-
-- **Project Manager | General Organization for Technical Industries (OTI)**  
-  *2020 – 2023*  
-  Contributed to **vehicle tracking solutions** using GPS and real-time communications.  
-
----
-
 ## 💼 Experience
 
 Over the past two decades, I have worked as a **Full Stack Developer, Software Engineer, and Project Manager**, delivering advanced solutions across multiple industries. From **2001 to 2024**, I served as a **Project Manager at the Higher Institute for Applied Sciences and Technology (HIAST)**, leading projects in computer vision, GIS, and digital image processing, while also mentoring developers and engineers. During this time, I also contributed to the **General Organization for Technical Industries (OTI)** on a GPS-based vehicle tracking system.
