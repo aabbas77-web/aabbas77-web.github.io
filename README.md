@@ -89,6 +89,23 @@ I have led the **design and implementation** of solutions such as:
 
 ---
 
+## 💼 Experience
+
+Over the past two decades, I have worked as a **Full Stack Developer, Software Engineer, and Project Manager**, delivering advanced solutions across multiple industries. From **2001 to 2024**, I served as a **Project Manager at the Higher Institute for Applied Sciences and Technology (HIAST)**, leading projects in computer vision, GIS, and digital image processing, while also mentoring developers and engineers. During this time, I also contributed to the **General Organization for Technical Industries (OTI)** on a GPS-based vehicle tracking system.
+
+In parallel, I have built a strong freelance and entrepreneurial career as a **Full Stack Developer**, designing and deploying applications that bridge **AI, GIS, embedded systems, and web technologies**. Notable achievements include:  
+- Developing a **Java Offline 3D MapViewer** as an alternative to Google Earth.  
+- Building a **GIS platform for an electricity company** using GeoServer, PostgreSQL, and OpenLayers.  
+- Creating **MapViewer systems** integrating UAV flight planning, offline mapping, and secure communications.  
+- Designing a **geospatial coordinate conversion tool** (Flask + DEM).  
+- Leading the development of **AI-powered platforms**, such as an image search engine and plant disease estimator (FastAPI, TensorFlow, Keras).  
+- Supporting **healthcare services** remotely with Laravel and React at OnePoint Healthcare (UAE).  
+- Launching an **e-commerce platform** for brand items (PrestaShop, PHP, MySQL).  
+
+Earlier in my career, I worked extensively on **CNC automation, CAD/embroidery systems, network programming, and digital image processing tools**, gaining deep expertise in **C/C++**, computational geometry, and industrial system integrations.
+
+Today, I continue to work independently and collaboratively, building **innovative, scalable, and user-focused solutions** that merge **academic research with real-world applications**.
+
 ## 📚 Publications
 
 - [**Registration of a 6-DOF-camera-images using 3D Terrain Model**](https://hiast.edu.sy/sites/default/files/MasterPHD/596dd15d123c7.pdf) (2017)  
