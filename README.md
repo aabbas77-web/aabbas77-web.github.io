@@ -7,7 +7,7 @@
 
 ## 📫 Connect with Me
 
-- 📍 Address: Al Zarariyeh – Sidon – Lebanon  
+- 📍 Address: Lebanon  
 - 📧 Email: [aabbas7@gmail.com](mailto:aabbas7@gmail.com)  
 - 🌐 Website: [aabbas77-web.github.io](https://aabbas77-web.github.io)  
 - 💻 GitHub: [github.com/aabbas77-web](https://github.com/aabbas77-web)  
