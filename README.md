@@ -9,8 +9,6 @@
 
 - 📍 Address: Al Zarariyeh – Sidon – Lebanon  
 - 📧 Email: [aabbas7@gmail.com](mailto:aabbas7@gmail.com)  
-- 📞 Phone: [+961 76482120](tel:+96176482120)  
-- 💬 WhatsApp: [Chat with me](https://wa.me/963931637734)  
 - 🌐 Website: [aabbas77-web.github.io](https://aabbas77-web.github.io)  
 - 💻 GitHub: [github.com/aabbas77-web](https://github.com/aabbas77-web)  
 - 🔗 LinkedIn: [linkedin.com/in/ali-abbas-45799710b](https://www.linkedin.com/in/ali-abbas-45799710b)  
