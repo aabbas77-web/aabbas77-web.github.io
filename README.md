@@ -1,5 +1,7 @@
 # 👨‍💻 Ali Abbas
 
+![Ali Abbas]([https://github.com/aabbas77-web/AliSoft/blob/main/AliSoft128Transparent.png](https://github.com/aabbas77-web/AliSoft/blob/main/Ali%20Abbas.png))
+
 **PhD-qualified Software Engineer | Computer Vision | GIS | AI | Full-Stack Development**  
 20+ years of experience delivering innovative solutions across computer vision, GIS, embedded systems, UAV navigation, 3D mapping, and AI-powered platforms.
 
