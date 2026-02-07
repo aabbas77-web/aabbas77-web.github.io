@@ -17,7 +17,6 @@
 - 📊 ResearchGate: [Profile](https://www.researchgate.net/profile/Ali-Abbas-90)  
 - 📑 Web of Science: [Profile](https://www.webofscience.com/wos/author/record/AFM-8617-2022)  
 - 📺 YouTube: [@aliabbas8784](https://www.youtube.com/@aliabbas8784)  
-- 🕊 Hodhods: [hodhods.com](https://hodhods.com)  
 
 ---
 
