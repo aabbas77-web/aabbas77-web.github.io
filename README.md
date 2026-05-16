@@ -1,5 +1,7 @@
 # 👨‍💻 Ali Abbas
 
+![Ali Abbas](https://raw.githubusercontent.com/aabbas77-web/AliSoft/main/Ali_Abbas.png)
+
 **PhD-qualified Software Engineer | Computer Vision | GIS | AI | Full-Stack Development**  
 20+ years of experience delivering innovative solutions across computer vision, GIS, embedded systems, UAV navigation, 3D mapping, and AI-powered platforms.
 
@@ -7,10 +9,8 @@
 
 ## 📫 Connect with Me
 
-- 📍 Address: Al Zarariyeh – Sidon – Lebanon  
+- 📍 Address: Lebanon  
 - 📧 Email: [aabbas7@gmail.com](mailto:aabbas7@gmail.com)  
-- 📞 Phone: [+961 76482120](tel:+96176482120)  
-- 💬 WhatsApp: [Chat with me](https://wa.me/963931637734)  
 - 🌐 Website: [aabbas77-web.github.io](https://aabbas77-web.github.io)  
 - 💻 GitHub: [github.com/aabbas77-web](https://github.com/aabbas77-web)  
 - 🔗 LinkedIn: [linkedin.com/in/ali-abbas-45799710b](https://www.linkedin.com/in/ali-abbas-45799710b)  
@@ -19,7 +19,6 @@
 - 📊 ResearchGate: [Profile](https://www.researchgate.net/profile/Ali-Abbas-90)  
 - 📑 Web of Science: [Profile](https://www.webofscience.com/wos/author/record/AFM-8617-2022)  
 - 📺 YouTube: [@aliabbas8784](https://www.youtube.com/@aliabbas8784)  
-- 🕊 Hodhods: [hodhods.com](https://hodhods.com)  
 
 ---
 
